@@ -14,7 +14,7 @@ Identified key columns such as title, director, cast, country, releaseyear, rati
 3. Data Cleaning(In Google Collab)
 Checked for Blank Values and found out that(Directors,Duration,Country,Cast,Genres) has the most null value
 so null value must be treated.
-![Preview](https://github.com/Arijeet226/ELEVATE_LABS_DA_INTERNSHIP_DAY1_TASK1/blob/2c0e757a48cfb27d4d40fc4a7b56876457115219/Screenshot/Screenshot%202025-09-22%20195444.pngt)
+![Preview](https://github.com/Arijeet226/ELEVATE_LABS_DA_INTERNSHIP_DAY1_TASK1/blob/f5051be0e8b26964fbbc722ed9a911753017bd8d/Screenshot/Screenshot%202025-09-22%20195444.png)
 ![Preview](https://github.com/Arijeet226/ELEVATE_LABS_DA_INTERNSHIP_DAY1_TASK1/blob/2c0e757a48cfb27d4d40fc4a7b56876457115219/Screenshot/Screenshot%202025-09-22%20195453.png)
 
 Checked for duplicate rows and confirmed none present
